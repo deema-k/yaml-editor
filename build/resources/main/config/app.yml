@@ -21,8 +21,8 @@ git:
     # If _both_ username and password are provided, they will be used to authenticate to the remote
     # Git repository. Otherwise, the app uses the Git configuration on the host (e.g., stores and
     # helpers defined in `gitconfig`).
-    username: deema-k
-    password: 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
+   # username: 
+    #password: 
   local:
     # path specifies the local filesystem path where the Git repository should be cloned. Defaults
     # to `config-repo`. This can be either an absolute or relative path.
